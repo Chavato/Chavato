@@ -2,10 +2,10 @@
 
 ## I'm Rafael Santos!
 
-- 💻 I’m currently working on back-end.
+- 💻 I’m currently working on back-end with Asp.Net.
 - 🏡 I'm from Brazil.
-- 👨‍🎓 I'm currently studying Eletronic Engeneering at Universidade Federal de Itajubá (UNIFEI).
-- 📘 I’m currently learning C# and database.
+- 👨‍🎓 I'm currently studying Information System at Cruzeiro do Sul.
+- 📘 I’m currently learning Design Patterns using Asp.Net.
 
 ## Contact me
 
