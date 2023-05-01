@@ -5,7 +5,7 @@
 - 💻 I’m currently working on back-end with Asp.Net.
 - 🏡 I'm from Brazil.
 - 👨‍🎓 I'm currently studying Information System at Cruzeiro do Sul.
-- 📘 I’m currently learning Design Patterns using Asp.Net.
+- 📘 I’m currently learning Design Patterns and Cloud Services.
 
 ## Contact me
 
